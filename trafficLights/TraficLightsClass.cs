@@ -7,12 +7,12 @@ using TrafficLightsProgram.Colors;
 
 namespace TrafficLightsProgram
 {
-    class TrafficLightsClass
+    class TrafficLights
     {
         IColor[] _colors = new IColor[3];
         int _currentColorIndex;
 
-        public TrafficLightsClass()
+        public TrafficLights()
         {
             _colors[0] = new RedColor();
             _colors[1] = new YellowColor();

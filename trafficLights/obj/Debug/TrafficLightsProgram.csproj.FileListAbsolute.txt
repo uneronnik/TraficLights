@@ -4,3 +4,9 @@ D:\C#\trafficLights\trafficLights\bin\Debug\trafficLights.pdb
 D:\C#\trafficLights\trafficLights\obj\Debug\TrafficLightsProgram.csprojAssemblyReference.cache
 D:\C#\trafficLights\trafficLights\obj\Debug\trafficLights.exe
 D:\C#\trafficLights\trafficLights\obj\Debug\trafficLights.pdb
+D:\C#\TraficLights\trafficLights\bin\Debug\trafficLights.exe.config
+D:\C#\TraficLights\trafficLights\bin\Debug\trafficLights.exe
+D:\C#\TraficLights\trafficLights\bin\Debug\trafficLights.pdb
+D:\C#\TraficLights\trafficLights\obj\Debug\TrafficLightsProgram.csprojAssemblyReference.cache
+D:\C#\TraficLights\trafficLights\obj\Debug\trafficLights.exe
+D:\C#\TraficLights\trafficLights\obj\Debug\trafficLights.pdb

@@ -10,7 +10,7 @@ namespace TrafficLightsProgram
 {
     class Program
     {
-        public static async Task StartTrafficLightCycle(TrafficLightsClass trafficLights, int delayBeetwenColorChanges)
+        public static async Task StartTrafficLightCycle(TrafficLights trafficLights, int delayBeetwenColorChanges)
         {
             while (true)
             {
@@ -23,7 +23,7 @@ namespace TrafficLightsProgram
         }
         static void Main(string[] args)
         {
-            TrafficLightsClass trafficLights = new TrafficLightsClass();
+            TrafficLights trafficLights = new TrafficLights();
 
             StartTrafficLightCycle(trafficLights, 1000);
 
